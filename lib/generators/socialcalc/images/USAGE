@@ -1,0 +1,8 @@
+Description:
+    Copy image files that are necessary for SocialCalc to work.
+
+Example:
+    rails generate socialcalc:images
+
+    This will create:
+        public/sc_images/*
