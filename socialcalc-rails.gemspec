@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["eijisakai@gmail.com"]
   s.homepage    = "https://github/elm200/socialcalc-rails"
   s.summary     = "Socialcalc for Rails."
-  s.description = "Socialcalc for Rails."
+  s.description = "Allows you to use Socialcalc, a JavaScript-based spreadsheet, on Ruby on Rails web applications."
   s.license     = "MIT"
 
   s.files = Dir["{lib,vendor,public}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
