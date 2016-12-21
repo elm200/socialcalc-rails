@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Socialcalc::Rails::VERSION
   s.authors     = ["Eiji Sakai"]
   s.email       = ["eijisakai@gmail.com"]
-  s.homepage    = "https://github/elm200/socialcalc-rails"
+  s.homepage    = "https://github.com/elm200/socialcalc-rails"
   s.summary     = "Socialcalc for Rails."
   s.description = "Allows you to use Socialcalc, a JavaScript-based spreadsheet, on Ruby on Rails web applications."
   s.license     = "MIT"
