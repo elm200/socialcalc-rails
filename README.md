@@ -1,4 +1,4 @@
-# Socialcalc::Rails
+# Socialcalc-rails gem
 
 [SocialCalc](https://github.com/marcelklehr/socialcalc) is a great JavaScript-based spreadsheet working on web browsers. However, it is a bit difficult to use it with Ruby on Rails applications because there is little information on it. Therefore, I have created a gem that allows you to use SocialCalc spreadsheets on Ruby on Rails application with ease.
 
