@@ -16,7 +16,7 @@
       control.sheet.ParseSheetSave(content);
       control.sheet.ScheduleSheetCommands('recalc', false, false);
 
-      key_event_handler = function(event_type, e) {
+      var key_event_handler = function(event_type, e) {
         if (!$.contains(_spreadsheet_element, e.target)) {
           e.stopPropagation();
         }
